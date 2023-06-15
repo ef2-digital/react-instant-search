@@ -1,0 +1,1 @@
+export {InstantSearchWrapper} from "./InstantSearchWrapper";
